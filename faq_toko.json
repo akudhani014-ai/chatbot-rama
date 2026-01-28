@@ -1,0 +1,60 @@
+{
+  "faq": [
+    {
+      "tag": "cara_order",
+      "keywords": [
+        "cara order",
+        "cara pesan",
+        "pesan lewat apa",
+        "order lewat apa",
+        "beli lewat mana",
+        "cara beli di coffe shop sessz kopi"
+      ],
+      "answer": "Kamu bisa order di coffe shop sessz kopi melalui:\n• Tokopedia\n• Shopee\n• WhatsApp: 085876407106\n• Datang langsung ke toko kami di desa karang jati kec tarub kab tegal."
+    },
+    {
+      "tag": "jam_operasional",
+      "keywords": [
+        "jam buka",
+        "jam operasional",
+        "buka jam berapa",
+        "tutup jam berapa",
+        "jam kerja toko"
+      ],
+      "answer": "Toko coffe shop sessz kopi buka setiap hari dari jam 18:00 sampai sebosenya."
+    },
+    {
+      "tag": "produk",
+      "keywords": [
+        "sedia apa saja",
+        "produk yang dijual",
+        "menunya apa aja",
+        "best sellernya apa"
+      ],
+      "answer": "Kami menyediakan kopi arabica,kopi robusta,kopi v60,kopi v drip,kopi javanese,dan masih banyak menu lainya,silakan datang aja ke tempat."
+    },
+    {
+      "tag": "alamat",
+      "keywords": [
+        "alamat ",
+        "lokasi",
+        "alamat",
+        "posisi",
+        "pcc",
+        "dimana",
+        "posdim"
+      ],
+      "answer": "kopi shop sessz kopi berlokasi di desa karangjati, Kabupaten Tegal, Jawa Tengah lebih tepatnya sebelah utara smk hasyim asy'ari."
+    }
+  ],
+  "bad_words": [
+    "anjing",
+    "bangsat",
+    "kirik",
+    "kontol",
+    "memek",
+    "admin anjing",
+    "dasar lu bangsat",
+    "su"
+  ]
+}
